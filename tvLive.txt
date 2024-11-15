@@ -1,5 +1,20 @@
 
 央视频道,#genre#
+CCTV-1,http://113.140.86.162:8009/hls/501/index.m3u8
+CCTV-2,http://113.140.86.162:8009/hls/502/index.m3u8
+CCTV-3-高清,http://113.140.86.162:8009/hls/3/index.m3u8
+CCTV-4,http://113.140.86.162:8009/hls/4/index.m3u8
+CCTV-5-高清,http://113.140.86.162:8009/hls/503/index.m3u8
+CCTV-6-高清,http://113.140.86.162:8009/hls/6/index.m3u8
+CCTV-7,http://113.140.86.162:8009/hls/504/index.m3u8
+CCTV-8-高清,http://113.140.86.162:8009/hls/8/index.m3u8
+CCTV-9,http://113.140.86.162:8009/hls/509/index.m3u8
+CCTV-10,http://113.140.86.162:8009/hls/506/index.m3u8
+CCTV-11,http://113.140.86.162:8009/hls/11/index.m3u8
+CCTV-12,http://113.140.86.162:8009/hls/507/index.m3u8
+CCTV-13,http://113.140.86.162:8009/hls/13/index.m3u8
+CCTV-14少儿,http://113.140.86.162:8009/hls/14/index.m3u8
+CCTV-15(音乐),http://113.140.86.162:8009/hls/15/index.m3u8
 
 CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV-2 财经,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
@@ -37,7 +52,6 @@ CCTV-14 少儿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch000000909900000012
 CCTV-15 音乐,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV-16 奥林匹克,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-17 农业农村,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
-CCTV-16 奥林匹克_4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 
 
 卫视频道,#genre#
